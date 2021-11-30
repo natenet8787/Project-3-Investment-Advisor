@@ -53,7 +53,7 @@ requests https://realpython.com/python-requests/
 Before running the application first install the following dependencies.
 See the associated Screenshot for what to Install 
 
-![imports](https://github.com/seanpatel19/Challenge-18/blob/bc543fb11ec798be8aaaa07b042917861458499b/images/installs.png)
+![imports](https://github.com/MoustafaMous/Project-3/blob/155955ea70369a491b82f12b00273343e47c48a8/Images/imports%20.jpg)
 
 
 
