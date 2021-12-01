@@ -2,15 +2,23 @@
 
 ## Investment Advisors   
 
+Our team has put together an algorithmic trading strategy that impliments machine learning to offer a better daily return than the market.
 
-
+We also have a investor facing website to show off the results of our strategy
 
 
 ## Algorithm Trading Model
 
+Our model uses Support Vector Machine (SVM) learning as well as moving averages.
+
+We applied this model to two asset classes, the SPY ETF (electronically traded fund), and Bitcoin (BTC)
+
 
 ## Website Interface 
 
+Using streamlit we are able to put together a website for our prospective investors
+
+You can decide which asset you wish to look at, and look at a graph of our performance over the past year. 
 
 
 ## Free NFTs!
