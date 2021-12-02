@@ -23,7 +23,16 @@ You can decide which asset you wish to look at, and look at a graph of our perfo
 
 ## Free NFTs!
 
+We had designs to place in a free NFT for those who used our service, we were not able to actually get that piece working. 
 
+
+## Next Steps
+
+We would like to further flesh our our strategy and increase the capabilities of our website. 
+
+Also we would like to add future projections to extrapoliate future values
+
+As well as the NFTs that were previously mentioned
 
 ---
 
